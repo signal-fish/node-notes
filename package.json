@@ -1,0 +1,13 @@
+{
+  "name": "node-notes",
+  "version": "1.0.0",
+  "description": "NodeJS Learning Notes",
+  "main": "app.js",
+  "repository": "git@github.com:signal-fish/node-notes.git",
+  "author": "Signal Fish <signalfish38861721@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  }
+}
